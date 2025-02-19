@@ -40,7 +40,7 @@ Input variables for team A and team B...
 - Highest season rank: AP, KenPom
 - Team coach
 - Prior year tourney status (0 = made tourney X prior season, 1 = made tourney Y prior season, ..., N = did not make postseason prior season)
-
+- Days of rest between most recent game
 
 Target variable...
 
